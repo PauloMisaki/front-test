@@ -4,7 +4,7 @@ import { NextSeo } from 'next-seo'
 export default function Index() {
   return (
     <>
-      <NextSeo
+      {/* <NextSeo
         title="Exsign Studio"
         description="Uma equipe de designers e desenvolvedores de ponta com o objetivo de trazer a experiência e design que seus usuários merecem."
       />
@@ -12,7 +12,7 @@ export default function Index() {
         {rangeMap(3, (i) => {
           return <h1 className="text-4xl font-semibold" key={i}>Hello World</h1>
         })}
-      </div>
+      </div> */}
     </>
   )
 }
