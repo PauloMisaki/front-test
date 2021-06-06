@@ -1,6 +1,6 @@
 ## Descrição
 
-API do teste
+Front da API de teste
 
 ## Instalação
 
